@@ -1,0 +1,14 @@
+{
+  "family": [
+    {
+      "id": 1,
+      "name": "Andi",
+      "role": "ayah"
+    },
+    {
+      "id": 2,
+      "name": "Siti",
+      "role": "ibu"
+    }
+  ]
+}
